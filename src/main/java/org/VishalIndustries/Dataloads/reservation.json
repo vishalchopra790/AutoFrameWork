@@ -1,0 +1,14 @@
+[
+  {
+    "origin": "MAA",
+    "destination" :"DEL",
+    "origin1" : "BLR",
+    "destination2" :"CCU"
+  },
+  {
+    "origin": "MAA",
+    "destination" :"DEL",
+    "origin1" : "BLR",
+    "destination2" :"DEL"
+  }
+]
